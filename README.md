@@ -1,4 +1,4 @@
-* <h2>👋 Hi, I’m Juan
+* <h2>👋 hola, mateo coria
 * 👍 estudiante del impa
 * ✔aprendiendo lenguaje c+++
 
