@@ -1,6 +1,6 @@
-- <h2>👋 Hi, I’m Juan
--👍 estudiante del impa
--✔aprendiendo lenguaje c+++
+* <h2>👋 Hi, I’m Juan
+* 👍 estudiante del impa
+* ✔aprendiendo lenguaje c+++
 
   
 
