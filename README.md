@@ -1,6 +1,6 @@
 * <h2>👋 hola, mateo coria
 * 👍 estudiante del impa
-* ✔aprendiendo lenguaje c+++
+* ✔aprendiendo lenguaje c
 
   
 
